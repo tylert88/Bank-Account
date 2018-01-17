@@ -1,0 +1,10 @@
+/Users/tylertorres/Documents/ASP.NET/classes/bin/Debug/netcoreapp2.0/classes.deps.json
+/Users/tylertorres/Documents/ASP.NET/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.json
+/Users/tylertorres/Documents/ASP.NET/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.dev.json
+/Users/tylertorres/Documents/ASP.NET/classes/bin/Debug/netcoreapp2.0/classes.dll
+/Users/tylertorres/Documents/ASP.NET/classes/bin/Debug/netcoreapp2.0/classes.pdb
+/Users/tylertorres/Documents/ASP.NET/classes/obj/Debug/netcoreapp2.0/classes.csproj.CoreCompileInputs.cache
+/Users/tylertorres/Documents/ASP.NET/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfoInputs.cache
+/Users/tylertorres/Documents/ASP.NET/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfo.cs
+/Users/tylertorres/Documents/ASP.NET/classes/obj/Debug/netcoreapp2.0/classes.dll
+/Users/tylertorres/Documents/ASP.NET/classes/obj/Debug/netcoreapp2.0/classes.pdb
